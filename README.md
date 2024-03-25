@@ -12,4 +12,4 @@ File B involves work on three algorithms
   2) DFS
   3) Augmenting Flow Algorithm
 
-File C is a document that hold research into real world applications of the three algorithms from part B
+The attached powerpoint holds research into real world applications of the three algorithms from part B
